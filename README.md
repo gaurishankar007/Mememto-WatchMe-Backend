@@ -1,4 +1,4 @@
-Backed project for the WatchMe flutter project and Momento React project with MongoDB in Node.js.
+Backend for the WatchMe flutter project and Momento React project with MongoDB in Node.js.
 
 # Features
 1. Upload post (1-12 images) 
